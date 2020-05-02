@@ -1,13 +1,15 @@
+## Dawn CSS
 Dawn is a minimal and lightweight utility-enhanced CSS starter framework. It provides a solid foundation of CSS for your project and enables simple control of your layout and styles through intuitive utility classes.
 
-[See the demo](http://www.alanbrown.ca/dawn-css/)
+[**See the demo**](http://www.alanbrown.ca/dawn-css/)
 
 ## Try it Out
 - Drop in the CSS:
-- Clone the repo: 'git clone https://github.com/alanbrown-ca/dawn-css.git'
+- Clone the repo: `git clone https://github.com/alanbrown-ca/dawn-css.git`
 - Install on npm:
 
 ## What's included
+```
 dawn-css/
 └── dist/
     ├── dawn.min.css
@@ -19,6 +21,7 @@ dawn-css/
     ├── _normalize.scss
     ├── _variables.scss
     └── dawn.scss
+```
 
 ## Documentation
 Full documentation can be accessed at: [https://alanbrown.ca/dawn-css](http://www.alanbrown.ca/dawn-css/)
