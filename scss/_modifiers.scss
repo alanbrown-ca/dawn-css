@@ -1,0 +1,9 @@
+.dark {
+  color:$inverted-font-color;
+  .btn-outlined {
+    color:$inverted-font-color;
+    &:hover, &:focus {
+      color:$font-color;
+    }
+  }
+}
