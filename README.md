@@ -24,7 +24,7 @@ dawn-css/
 ```
 
 ## Documentation
-Full documentation can be accessed at: [https://alanbrown.ca/dawn-css](http://www.alanbrown.ca/dawn-css/)
+Full documentation can be accessed at: [https://alanbrown.ca/dawn-css](https://www.alanbrown.ca/dawn-css/)
 
 ## License
 Code and docs released under the MIT License.
