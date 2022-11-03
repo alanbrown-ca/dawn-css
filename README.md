@@ -1,7 +1,7 @@
 ## Dawn CSS
 Dawn is a minimal and lightweight utility-enhanced CSS starter framework. It provides a solid foundation of CSS for your project and enables simple control of your layout and styles through intuitive utility classes.
 
-[**See the demo**](http://www.alanbrown.ca/dawn-css/)
+[**See the demo**](https://www.alanbrown.ca/dawn-css/)
 
 ## Try it Out
 - Drop in the CSS:
